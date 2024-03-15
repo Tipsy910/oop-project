@@ -10,4 +10,4 @@
   * พร้อมทั้งจะแสดงกราฟอัตราส่วนของเงินด้านข้างของแต่ละหัวข้อ
 
 ## presentation: [link](https://slidesgo.com/editor/share/9b883c50-7255-404d-a694-5bc5eb05d457#rs=link)
-## video: [link](https://drive.google.com/file/d/1jObhCG7IZd0ELQMCkk_gkxtECbxUGsXL/view?usp=sharing)
+## video: [link](https://drive.google.com/drive/u/1/folders/1Da70-AwhyP8gnl-Ns1nox84F9TrdMldV)
